@@ -1,4 +1,4 @@
-GOBINARYNAME := server
+GOBINARYNAME := grpc_go_unittest
 
 all: rpc_go
 
